@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
  * @author MURILOFERREIRALEMEDO
  */
 
-@WebServlet(urlPatterns={"/Entrega_01"})
+@WebServlet(urlPatterns={"/entrega1"})
 public class PrimeiroServlet extends HttpServlet {
     
     @Override
